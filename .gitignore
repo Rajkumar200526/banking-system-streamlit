@@ -1,0 +1,5 @@
+banking_system.db
+__pycache__/
+*.pyc
+.venv/
+venv/
